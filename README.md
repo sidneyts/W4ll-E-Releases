@@ -1,23 +1,47 @@
-🚀 Lançamento Pré-Release do W4ll-E v1.0.0! 🚀
-É com grande entusiasmo que anunciamos a primeira versão pré-release do W4ll-E, a sua nova ferramenta para automatizar a renderização de vídeos!
+W4ll-E Renderer v1.0.1
+W4ll-E é uma aplicação de desktop moderna, construída com Electron, projetada para automatizar e simplificar o processo de renderização e renomeação de vídeos e imagens. Ideal para criadores de conteúdo e agências que precisam padronizar mídias em múltiplos formatos de forma rápida e eficiente.
 
-Esta versão inicial foi concebida para que os primeiros utilizadores possam testar as funcionalidades principais e ajudar a moldar o futuro da aplicação. Como uma versão pré-release, o seu feedback é incrivelmente valioso para nós.
+✨ Funcionalidades Principais
+Fila de Processamento Automatizada: Adicione múltiplos ficheiros de vídeo e imagem (incluindo pastas inteiras) através do "arrastar e soltar" para uma renderização em lote.
 
-✨ O que já pode fazer nesta versão:
-Fila de Processamento Automatizada: Arraste e solte múltiplos ficheiros de vídeo e imagem para uma renderização em lote, rápida e eficiente.
+Gestão de Perfis e Presets: Crie, edite, importe, exporte e organize os seus próprios perfis de renderização. Cada perfil pode conter múltiplos presets para padronizar a sua produção de conteúdo.
 
-Gestão de Perfis e Presets: Crie, edite e organize os seus próprios perfis de renderização para padronizar a sua produção de conteúdo.
+Renderização Inteligente com Fallback: O W4ll-E identifica automaticamente os presets compatíveis e, mais importante, permite configurar "fallbacks" (adaptações) para otimizar ficheiros que não se encaixam num formato, garantindo que nada fica para trás.
 
-Renderização Inteligente: O W4ll-E identifica automaticamente os presets compatíveis e até otimiza ficheiros que não se encaixam em nenhum formato, garantindo que nada fica para trás.
+Criador SUPERLED: Uma ferramenta especializada para criar composições de vídeo para painéis de LED com múltiplos ecrãs, com controlo sobre a duração e o comportamento de cada painel.
 
-Criador SUPERLED: Uma ferramenta especializada para criar composições de vídeo para painéis de LED com facilidade.
+Atualizações Automáticas: A aplicação verifica e descarrega novas versões em segundo plano, notificando-o quando uma atualização está pronta para ser instalada.
 
-Atualizações Automáticas: A aplicação irá notificá-lo sempre que uma nova versão estiver disponível.
+Interface Multilíngue: Suporte completo para Português, Inglês e Espanhol.
 
-🧪 Período de Teste e Licenciamento
-Esta versão inclui um período de teste gratuito com 50 renderizações. Queremos que teste a aplicação sem limites. O sistema de licenciamento já está ativo para futuras versões comerciais.
+🚀 Instalação e Primeiro Uso
+Acesse a Página de Releases: Vá para a página de Releases do repositório no GitHub.
 
-🐞 Encontrou um Bug? Tem Sugestões?
-Este é o momento perfeito para nos ajudar! Se encontrar algum problema ou tiver ideias para novas funcionalidades, por favor, abra uma "Issue" aqui no nosso repositório do GitHub.
+Baixe a Versão Mais Recente: Encontre a última versão e baixe o ficheiro de instalação para o seu sistema operativo (.exe para Windows ou .dmg para macOS).
 
-Obrigado por ser um dos primeiros a experimentar o W4ll-E!
+Siga as instruções abaixo para o seu sistema operativo.
+
+Windows
+O Windows pode exibir um aviso de segurança (SmartScreen) porque a aplicação ainda não tem uma assinatura de código reconhecida. Para instalar:
+
+Ao ver o aviso "O Windows protegeu o seu computador", clique em "Mais informações".
+
+Em seguida, clique no botão "Executar mesmo assim".
+
+macOS
+O macOS tem um sistema de segurança (Gatekeeper) que pode bloquear a aplicação. Para a executar pela primeira vez:
+
+Após instalar e mover o W4ll-E para a pasta "Aplicações", tente abri-lo. Verá um aviso a dizer que a aplicação não pode ser aberta.
+
+Vá a "Definições do Sistema" -> "Privacidade e Segurança".
+
+Role para baixo até encontrar uma mensagem sobre o "W4ll-E" ter sido bloqueado.
+
+Clique no botão "Abrir Mesmo Assim" e confirme.
+
+Após este processo, a aplicação abrirá normalmente das próximas vezes.
+
+🔑 Licenciamento
+O W4ll-E funciona em modo de teste (Trial Mode), permitindo um número limitado de renderizações para que possa experimentar todas as funcionalidades.
+
+Para obter uma licença completa e remover os limites, por favor, entre em contacto com o administrador através do e-mail: sidtsilva@gmail.com
