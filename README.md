@@ -1,4 +1,5 @@
 🚀 W4ll-E Renderer v1.0.1
+
 W4ll-E é uma aplicação de desktop moderna, construída com Electron, projetada para automatizar e simplificar o processo de renderização e renomeação de vídeos e imagens. Ideal para criadores de conteúdo e agências que precisam padronizar mídias em múltiplos formatos de forma rápida e eficiente.
 
 __________________________________________________________________
