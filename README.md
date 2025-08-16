@@ -14,6 +14,8 @@ Atualizações Automáticas: A aplicação verifica e descarrega novas versões 
 
 Interface Multilíngue: Suporte completo para Português, Inglês e Espanhol.
 
+__________________________________________________________________
+
 🚀 Instalação e Primeiro Uso
 1. Acesse a Página de Releases: Vá para a página de Releases do repositório no GitHub.
 
