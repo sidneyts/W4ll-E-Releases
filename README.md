@@ -1,4 +1,4 @@
-W4ll-E Renderer v1.0.1
+🚀 W4ll-E Renderer v1.0.1
 W4ll-E é uma aplicação de desktop moderna, construída com Electron, projetada para automatizar e simplificar o processo de renderização e renomeação de vídeos e imagens. Ideal para criadores de conteúdo e agências que precisam padronizar mídias em múltiplos formatos de forma rápida e eficiente.
 
 ✨ Funcionalidades Principais
@@ -15,11 +15,11 @@ Atualizações Automáticas: A aplicação verifica e descarrega novas versões 
 Interface Multilíngue: Suporte completo para Português, Inglês e Espanhol.
 
 🚀 Instalação e Primeiro Uso
-Acesse a Página de Releases: Vá para a página de Releases do repositório no GitHub.
+1. Acesse a Página de Releases: Vá para a página de Releases do repositório no GitHub.
 
-Baixe a Versão Mais Recente: Encontre a última versão e baixe o ficheiro de instalação para o seu sistema operativo (.exe para Windows ou .dmg para macOS).
+2. Baixe a Versão Mais Recente: Encontre a última versão e baixe o ficheiro de instalação para o seu sistema operativo (.exe para Windows ou .dmg para macOS).
 
-Siga as instruções abaixo para o seu sistema operativo.
+3. Siga as instruções abaixo para o seu sistema operativo.
 
 Windows
 O Windows pode exibir um aviso de segurança (SmartScreen) porque a aplicação ainda não tem uma assinatura de código reconhecida. Para instalar:
