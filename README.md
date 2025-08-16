@@ -17,7 +17,7 @@ W4ll-E é uma aplicação de desktop moderna, construída com Electron, projetad
 
 ## 🚀 Instalação e Primeiro Uso
 
-1.  **Acesse a Página de Releases:** Vá para a [página de Releases do repositório no GitHub](https://github.com/sidneyts/W4ll-e/releases).
+1.  **Acesse a Página de Releases:** Vá para a [página de Releases do repositório no GitHub](https://github.com/sidneyts/W4ll-E-Releases/releases).
 2.  **Baixe a Versão Mais Recente:** Encontre a última versão e baixe o ficheiro de instalação para o seu sistema operativo (`.exe` para Windows ou `.dmg` para macOS).
 3.  **Siga as instruções abaixo para o seu sistema operativo.**
 
